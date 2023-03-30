@@ -1,4 +1,4 @@
-var arr, stop, time_left = 600,
+var arr, stop, time_left = 60,
             arr_pointer = 0,
             correct = 0,
             incorrect = 0,
